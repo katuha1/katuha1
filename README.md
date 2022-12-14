@@ -3,4 +3,4 @@
 <h3>I'm in college and 20 years old.</h3>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katuha1&theme=radical)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxstorexxd&layout=compact&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxstorexxd&layout=compact&langs_count=1"/>
